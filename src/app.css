@@ -1,0 +1,51 @@
+#root {  
+  margin: 0 auto;
+  min-height: 900px;
+  padding: 2rem;
+  text-align: center;
+  box-sizing: border-box;
+  background-color: whitesmoke;
+  font-family: "Source Sans Pro", sans-serif;   
+}
+
+.input-name {
+  width: 350px;
+  margin: 3px;
+  padding: 10px;  
+}
+
+.input-age {
+  width: 50px;
+  margin: 10px 37px 0 3px;  
+  padding: 10px 0 10px 10px;
+  text-align: center;
+}
+
+button {
+  width: 100px;
+  text-align: center;
+  padding: 10px;
+  font-size: 16px;
+  font-weight: 550;
+  border-radius: 10px;
+  border: none;
+  transition: filter 0.3s;    
+  cursor: pointer;
+  background-color: rgb(127, 192, 201);
+}
+button:hover {
+    filter: brightness(0.9);
+}
+
+ul {
+  margin-right: 40px;  
+}
+
+
+
+
+
+
+
+
+
